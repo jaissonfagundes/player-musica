@@ -17,7 +17,6 @@ public class Main {
                 Artista01.setArtista("Artista01");
                 Artista01.setAlbum("Album01");
                 Artista01.setNomeMusica("Musica01");
-
                 System.out.println("Artista: " + Artista01.getArtista());
                 System.out.println("Album: " + Artista01.getAlbum());
                 System.out.println("Musica: " + Artista01.getNomeMusica());
